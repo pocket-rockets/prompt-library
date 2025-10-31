@@ -8,5 +8,5 @@ Copy any prompt from `/categories` and replace [BRACKETED] variables.
 - **Productivity** - Meeting notes, task planning
 - **Analysis** - Data interpretation, reports
 - **Writing** - Emails, documentation
-- 
+- **Others** - Non-Related Topic Prompts 
 
